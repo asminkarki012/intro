@@ -7,6 +7,7 @@
 <p align="left">
 <a href="https://www.linkedin.com/in/asmin-karki-7b8b6a236/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/asmin-karki-7b8b6a236/" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/asminkarki012" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="asminkarki012" height="30" width="40" /></a>
+<a href="https://www.codewars.com/users/asminkarki012" target="blank"><img align="center" src="https://www.codewars.com/packs/assets/logo.61192cf7.svg" alt="asminkarki012" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
