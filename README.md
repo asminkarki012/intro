@@ -1,2 +1,0 @@
-# intro
-My Short Introduction
