@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Asmin</h1>
-<h3 align="center">I am a Web Developer</h3>
+<h3 align="center">I am a Backend Developer</h3>
 
 - 📫 How to reach me **mail me at asminkarki09@gmail.com**
 
